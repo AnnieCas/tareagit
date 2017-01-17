@@ -2,3 +2,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.imagen {
+  height: 300px;
+  width: 700px;
+  background-image: url(../Imagenes/labra.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
